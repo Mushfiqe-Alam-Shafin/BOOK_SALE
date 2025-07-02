@@ -91,3 +91,9 @@ This project focuses on answering real-world business questions through SQL. Bel
    ```bash
    git clone https://github.com/your-username/book_sales_sql.git
 
+   ## 🧠 Author
+
+**Mushfiqe Alam Shafin**  
+BBA in MIS | Aspiring Data Analyst  
+[GitHub Profile](https://github.com/Mushfiqe-Alam-Shafin)
+
